@@ -47,7 +47,7 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 - Choose a **Case Folder** location.  
 - Click **Next** → Click **Finish**.  
 
-<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/6a802e96-34e2-4c76-b0e7-16f7a7193b7c" />
+
 
 
 ### **Add the Virtual Disk as an Evidence Source**  
